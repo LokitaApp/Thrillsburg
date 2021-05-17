@@ -14,7 +14,7 @@ Fill out the form below
     <label for="description">Description</label>
     <input type="text" rows="4" name="description" id="description" placeholder="Write the description of the event here"><br />
     <label for="time">Time of Event</label>
-    <input type="datetime-local" name="time" id="event-time" name="event-time" required="><br />
+    <input type="datetime-local" name="time" id="event-time" name="event-time" required=""><br />
     <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
   </fieldset>
   <input type="submit" value="Register">
