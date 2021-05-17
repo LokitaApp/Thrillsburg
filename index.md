@@ -12,7 +12,7 @@ Fill out the form below
     <label for="event-name">Event Name</label>
     <input type="text" name="event-name" id="event-name" placeholder="Write the name of the event here" required="">
     <label for="description">Description</label>
-    <textarea rows="4" name="description" id="description" placeholder="Write the description of the event here></textarea>
+    <input type="text" rows="4" name="description" id="description" placeholder="Write the description of the event here></input>
     <label for="time">Time of Event</label>
     <input type="datetime-local" name="time" id="event-time" name="event-time">
     <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
