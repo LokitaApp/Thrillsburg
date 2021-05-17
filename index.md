@@ -5,7 +5,7 @@ You can contact us at our [Support Email](maito:LokitaApp@gmail.com) for help or
 Want to submit an Event?
 Fill out the form below
 
-<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/mdoyelvq" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required=""><br />
